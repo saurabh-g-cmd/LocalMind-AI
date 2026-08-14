@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 LocalMind AI
 
 ### Portable Offline AI Assistant
@@ -244,3 +245,6 @@ LocalMind AI uses third-party software and model files.
 * **llamafile** — Local inference/runtime
 
 Please review the respective licenses and usage terms before redistributing these components.
+=======
+# LocalMind-AI
+>>>>>>> b927ed41831edd49f9f074d845eba6a327b807f3
