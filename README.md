@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 LocalMind AI
 
 ### Portable Offline AI Assistant
