@@ -2,7 +2,7 @@
 
 ### Portable Offline AI Assistant
 
-![LocalMind AI](LocalMind-AI.png)
+![LocalMind AI](LocalMind_AI.png)
 
 > **Your AI. Your Device. No Internet Required.**
 
