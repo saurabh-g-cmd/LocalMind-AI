@@ -110,7 +110,7 @@ The local AI server will start.
 Then open your browser:
 
 ```text
-http://localhost:8080
+http://127.0.0.1:8080
 ```
 
 You can now chat with LocalMind AI.
@@ -246,4 +246,4 @@ LocalMind AI uses third-party software and model files.
 Please review the respective licenses and usage terms before redistributing these components.
 =======
 # LocalMind-AI
->>>>>>> b927ed41831edd49f9f074d845eba6a327b807f3
+
